@@ -63,3 +63,8 @@ packages/
 #Test files
 *.testsettings
 .vs/
+
+/[Bb]uild/
+/_BUILD/
+/lib64/
+/lib/
