@@ -10,7 +10,7 @@ Code base on [GNU libiconv][1]
 ----------------------
 ## Licensing
 
-Depend on GNU libiconv [LGPL3.0][3] 
+Depend on GNU libiconv [LGPL3.0][2] 
 
   [1]: https://www.gnu.org/software/libiconv
   [2]: https://www.gnu.org/licenses/lgpl.html
